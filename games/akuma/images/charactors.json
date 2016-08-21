@@ -1,0 +1,48 @@
+{"frames": {
+
+"dummyChara.png":
+{
+	"frame": {"x":0,"y":0,"w":240,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":540},
+	"sourceSize": {"w":240,"h":540},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"hiromi.png":
+{
+	"frame": {"x":240,"y":0,"w":240,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":540},
+	"sourceSize": {"w":240,"h":540},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"suzuki.png":
+{
+	"frame": {"x":0,"y":540,"w":240,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":540},
+	"sourceSize": {"w":240,"h":540},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"takeda.png":
+{
+	"frame": {"x":240,"y":540,"w":240,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":540},
+	"sourceSize": {"w":240,"h":540},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "charactors.png",
+	"format": "RGBA8888",
+	"size": {"w":480,"h":1080},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bc69af222981a9d591b7c5c04d954de1:b1595e471a1f9099c50a3e97b25caedb:e15d8c6d09d5985779a99f6c65fa1380$"
+}
+}
